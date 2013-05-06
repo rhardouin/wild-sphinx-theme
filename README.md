@@ -20,6 +20,8 @@ Directory tree example
 
     + <sphinx directory>
         |
+        - conf.py
+        |
         - index.rst
         |
         + ...
