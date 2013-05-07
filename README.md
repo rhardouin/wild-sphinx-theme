@@ -3,8 +3,8 @@ wild-sphinx-theme
 
 Wild is a Sphinx theme based on Nature. It allows you to use a pygments style with a dark background.
 
-Installation
-------------
+Manual installation
+-------------------
 
 Declare you want to use wild theme in conf.py:
 
@@ -16,7 +16,7 @@ Assuming your theme directory is `<sphinx dir>/_theme` your conf.py should conta
     html_theme_path = ['_themes']
     
 Directory tree example
-------------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
     + <sphinx directory>
         |
@@ -35,4 +35,8 @@ Directory tree example
                 + static
                     |
                     - wild.css_t
-                
+
+PIP Installation
+~~~~~~~~~~~~~~~~
+
+Coming soon.
