@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-with open('README.txt', 'r') as f:
+with open('README.rst', 'r') as f:
     desc = f.read()
 
 setup(name='wild_sphinx_theme',
