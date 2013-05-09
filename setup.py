@@ -16,7 +16,7 @@ setup(name='wild_sphinx_theme',
     author_email='romain_hardouin@yahoo.fr',
     license = "BSD",
     keywords = ["sphinx", "theme", "wild"],
-    #download_url = "TBD",
+    download_url = "https://pypi.python.org/pypi/wild_sphinx_theme",
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
