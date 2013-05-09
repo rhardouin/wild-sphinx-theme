@@ -1,2 +1,4 @@
 .komodotools
 *.komodoproject
+dist
+build
