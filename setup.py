@@ -1,7 +1,6 @@
 #!/bin/python33
 
 from distutils.core import setup
-import wild_sphinx_theme
 
 with open('README.txt', 'r') as f:
     desc = f.read()
@@ -16,7 +15,7 @@ setup(name='wild_sphinx_theme',
     author='Romain Hardouin',
     author_email='romain_hardouin@yahoo.fr',
     license = "BSD",
-    keywords = "sphinx extension theme",
+    keywords = ["sphinx", "theme", "wild"],
     #download_url = "TBD",
     classifiers=[
         'Development Status :: 5 - Production/Stable',
