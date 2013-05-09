@@ -10,7 +10,7 @@ Installation
 
 1. Install the package::
 
-    $ pip install wild-sphinx-theme
+    $ pip install wild_sphinx_theme
 
 2. Edit your ``conf.py`` sphinx configuration file to use the Wild theme::
 

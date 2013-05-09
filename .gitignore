@@ -1,6 +1,7 @@
 .komodotools
 *.komodoproject
 *.pyc
+MANIFEST
 __pycache__
 dist
 build
